@@ -8,7 +8,7 @@ menu:
 # Customize
 customize:
     logo:
-        width: 165
+        width: 250
         height: 60
         url: images/logo-header.png
     theme_color: '#ffdb58'
@@ -119,7 +119,7 @@ miscellaneous:
         fb_app_id:
         fb_admins:
         twitter_id:
-    links:
-        Hexo: http://hexo.io
+    # links:
+    #     Hexo: http://hexo.io
 
-poweredby: true
+poweredby: false
