@@ -19,9 +19,9 @@ customize:
     social_links: # for more icons, please see http://fontawesome.io/icons/#brand
         twitter: /
         facebook: /
-        stack-overflow: /
-        github: https://github.com/ppoffice/hexo-theme-hueman
-        weibo: /
+        # stack-overflow: /
+        # github: https://github.com/ppoffice/hexo-theme-hueman
+        # weibo: /
         rss: /
 
 # Widgets
