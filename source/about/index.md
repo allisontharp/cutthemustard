@@ -50,4 +50,4 @@ Thank you for visiting **Cut The Mustard** – we’re excited to share our love
 
 ---
 
-Keep it spicy, and always cut the mustard!
+Keep it spicy and always cut the mustard!
