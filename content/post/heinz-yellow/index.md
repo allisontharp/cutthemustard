@@ -1,6 +1,5 @@
 ---
 date: '2024-11-30T12:51:53-05:00'
-draft: true
 title: 'Heinz Yellow'
 # featureImage: '../heinz-yellow.png'
 description: "Article description." # Description used for search engine.
