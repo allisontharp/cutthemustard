@@ -1,8 +1,8 @@
 ---
-title: "{{ replace .Name "-" " " | title }}" # Title of the blog post.
-date: {{ .Date }} # Date of post creation.
+title: "Grey Poupon French Dijon" # Title of the blog post.
+date: 2024-11-30T14:27:09-05:00 # Date of post creation.
 description: "Article description." # Description used for search engine.
-featured: true # Sets if post is a featured post, making appear on the home page side bar.
+featured: false # Sets if post is a featured post, making appear on the home page side bar.
 draft: true # Sets whether to render this page. Draft of true will not be rendered.
 toc: false # Controls if a table of contents should be generated for first-level links automatically.
 # menu: main
@@ -16,11 +16,44 @@ codeMaxLines: 10 # Override global value for how many lines within a code block 
 codeLineNumbers: false # Override global value for showing of line numbers within code block.
 figurePositionShow: true # Override global value for showing the figure label.
 categories:
-  - Technology
+  - Review
 tags:
-  - Tag_name1
+  - Dijon
   - Tag_name2
 # comment: false # Disable comment if false.
 ---
 
-**Insert Lead paragraph here.**
+Grey Poupon Dijon is a classy mustard. 
+
+![Grey Poupon Dijon](./Grey-Poupon-Dijon.png)
+
+## Flavor
+
+**Rating: 🥄🥄🥄🥄** (4/5)
+
+## Heat 
+
+**Rating: 🥄🥄🥄🥄** (4/5)
+
+
+## Texutre 
+
+**Rating: 🥄🥄🥄🥄** (4/5)
+
+
+## Versatility 
+
+**Rating: 🥄🥄🥄🥄** (4/5)
+
+
+## Packaging & Appearance 
+
+**Rating: 🥄🥄🥄🥄** (4/5)
+
+
+## Conclusion 
+
+
+**Overall Rating:** (19/25)
+
+*Keep it spicy and always cut the mustard!*
