@@ -3,9 +3,9 @@ title = "About"
 description = ""
 date = "2019-02-28"
 aliases = ["about-us", "about-ctm", "contact"]
-author = "Cut The Mustard Authors"
+author = "The Mustard DB Authors"
 +++
-Welcome to **Cut The Mustard** – your go-to source for all things mustard! Whether you're a casual mustard eater or a true connoisseur, our blog and reviews are here to help you explore, taste, and enjoy the wide world of mustard.
+Welcome to **The Mustard DB** – your go-to source for all things mustard! Whether you're a casual mustard eater or a true connoisseur, our blog and reviews are here to help you explore, taste, and enjoy the wide world of mustard.
 
 ---
 
@@ -17,7 +17,7 @@ Our love for mustard goes beyond just tasting; it's about experiencing the diffe
 ---
 
 ## What We Do
-At **Cut The Mustard**, we specialize in:
+At **The Mustard DB**, we specialize in:
 - **Mustard Reviews**: In-depth, unbiased reviews of all kinds of mustard. We break down the flavor, texture, heat level, versatility, and even the packaging!
 - **Mustard Pairings**: Recommendations on how to pair your mustard with different foods – from classic hot dogs and burgers to gourmet cheeses and international dishes.
 - **Mustard Recipes**: Creative ways to use mustard in your cooking – from homemade dressings to sauces, marinades, and even desserts.
@@ -49,7 +49,7 @@ Have a mustard brand you want us to review? A mustard pairing recommendation? Or
 
 ---
 
-Thank you for visiting **Cut The Mustard** – we’re excited to share our love of mustard with you! Stay tuned for more mustard adventures, and remember: the world is full of flavors, and mustard is here to make it even better.
+Thank you for visiting **The Mustard DB** – we’re excited to share our love of mustard with you! Stay tuned for more mustard adventures, and remember: the world is full of flavors, and mustard is here to make it even better.
 
 ---
 
